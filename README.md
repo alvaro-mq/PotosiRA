@@ -1,0 +1,2 @@
+# PotosiRA
+Aplicacion Movil para 
