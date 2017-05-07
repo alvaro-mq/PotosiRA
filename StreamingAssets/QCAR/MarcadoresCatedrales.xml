@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CatedralePotosi" size="500.000000 666.666687" />
+    <ImageTarget name="image_catedral3" size="500.000000 754.838684" />
+    <ImageTarget name="catedral_potosi" size="500.000000 503.006012" />
+  </Tracking>
+</QCARConfig>

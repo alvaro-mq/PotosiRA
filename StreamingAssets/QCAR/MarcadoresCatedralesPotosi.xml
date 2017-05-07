@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="marcador_iglesia_la_merced" size="500.000000 375.000000" />
+    <ImageTarget name="marcador_iglesia_jerusalen" size="500.000000 444.000000" />
+    <ImageTarget name="marcador_iglesia_san_agustin" size="500.000000 662.017151" />
+    <ImageTarget name="marcador_santa_barbara" size="500.000000 600.235840" />
+    <ImageTarget name="marcador_arcocobija" size="500.000000 334.000000" />
+    <ImageTarget name="marcador_teatro_modesto" size="500.000000 665.773621" />
+    <ImageTarget name="marcador_san_sebastian" size="500.000000 374.972809" />
+    <ImageTarget name="marcador_san_lorenzo" size="500.000000 666.666687" />
+    <ImageTarget name="marcador_San_Juan" size="500.000000 888.485962" />
+    <ImageTarget name="marcador_san_francisco" size="500.000000 333.333344" />
+    <ImageTarget name="marcador_pabellones" size="500.000000 372.727264" />
+    <ImageTarget name="marcador_catedral" size="400.000000 533.333313" />
+  </Tracking>
+</QCARConfig>
