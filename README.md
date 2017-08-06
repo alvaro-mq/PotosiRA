@@ -3,3 +3,5 @@ Aplicacion Movil para incentivar el conocimiento de los sitios turisticos de Pot
   - Realidad Aumentada
   - Geolocalización
   - Base de Datos Sqlite
+  - Unity
+  - Android
